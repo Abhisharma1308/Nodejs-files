@@ -36,19 +36,23 @@
 //      module.exports = { sum, mul };
 
 
- function sub(a=0,b=0){
-            return a-b;
-        }
+//  function sub(a=0,b=0){
+//             return a-b;
+//         }
 
- function sum(a=0,b=0){
-            return a-b;
-        }
+//  function sum(a=0,b=0){
+//             return a-b;
+//         }
 
- function add(a){
-    const res = sum(a,2)
-            return res;
-        }
-    function mul(a=1,b=1){
-        return a*b;
-    }
-     module.exports = { sum,add,sub, mul };
+//  function add(a){
+//     const res = sum(a,2)
+//             return res;
+//         }
+//     function mul(a=1,b=1){
+//         return a*b;
+//     }
+//      module.exports = { sum,add,sub, mul };
+
+
+
+

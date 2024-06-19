@@ -33,12 +33,12 @@
 // console.log(res4);
 
 
-const figlet = require("figlet");
+// const figlet = require("figlet");
 
-figlet("Abhishek",(err,data)=>{
-    if(err) console.log(err);
-    else console.log(data);
-});
+// figlet("Abhishek",(err,data)=>{
+//     if(err) console.log(err);
+//     else console.log(data);
+// });
 
 
 
